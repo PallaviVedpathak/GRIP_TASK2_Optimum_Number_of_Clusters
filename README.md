@@ -16,4 +16,4 @@ a.Youtube:
 
 b.Github: https://github.com/PallaviVedpathak/GRIP_TASK2_Optimum_Number_of_Clusters
 
-c.Dataset: https://bit.ly/2TK5Xn5
+c.Dataset: : https://bit.ly/3kXTdox
